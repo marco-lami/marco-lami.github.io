@@ -1,20 +1,21 @@
 ---
 layout: default
-title: About
+title: about
 ---
 
-# About Me
+# about me
 
-**Your Name**  
-PhD Candidate in Economics  
-University of Padua  
+**Marco Lami**  
+Research Assistant Trainee, Directorate of General Research (Monetary Policy research Division), European Central Bank
+Research Assistant, University of Padua
 
-📧 [your.email@unipd.it](mailto:your.email@unipd.it)
+📧 [marco.lami@ecb.europa.eu](mailto:marco.lami@ecb.europa.eu)
+📧 [marco.lami@studenti.unipd.it](mailto:marco.lami@studenti.unipd.it)
 
 ---
 
 ## Research Interests
-Monetary Policy · Macroeconomics · Econometrics · Bayesian Methods
+Macroeconometrics· Time Series Econometrics · Applied Macroeconomics
 
 ---
 
