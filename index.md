@@ -4,7 +4,7 @@ title: about
 ---
 
 ## about me
-Research Assistant Trainee, Directorate of General Research (Monetary Policy research Division),**European Central Bank**
+Research Assistant Trainee, Directorate of General Research (Monetary Policy research Division), **European Central Bank**
 
 Research Assistant, **University of Padua**
 
