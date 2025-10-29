@@ -14,7 +14,6 @@ My research field is
 
 Macroeconometrics· Time Series Econometrics · Applied Macroeconomics
 
----
 
 ## Research
 
