@@ -9,7 +9,7 @@ Research Assistant Trainee, Directorate of General Research (Monetary Policy res
 Research Assistant, **University of Padua**
 
 ## Research Interests
-
+My research field is
 
 
 Macroeconometrics· Time Series Econometrics · Applied Macroeconomics
